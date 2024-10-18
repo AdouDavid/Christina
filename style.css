@@ -329,7 +329,7 @@ header {
 }
 
 footer {
-    background-image: url(/photography.jpg);
+    background-image: url(photography.jpg);
     height: 100vh;
     width: 100%;
     background-repeat: no-repeat;
