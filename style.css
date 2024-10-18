@@ -259,7 +259,7 @@ header {
     flex-direction: column;
     align-items: center;
     row-gap: 1.5em;
-    padding: 10em;
+    padding: 3em;
     margin-top: 5em;
     position: relative;
 }
@@ -280,7 +280,7 @@ header {
 .about ul {
     display: flex;
     gap: 2em;
-    font-size: 2rem;
+    font-size: 1.6rem;
 }
 
 .about ul a {
@@ -352,7 +352,7 @@ footer {
 .message-section {
     display: flex;
     flex-direction: column;
-    padding: 5em;
+    padding: 2em;
     row-gap: 2em;
 }
 
@@ -418,7 +418,7 @@ header input{
 } */
 
 header #burger:checked ~ .nav-links{
-    right: -0%;
+    right: 0%;
 }
 
 @media  (max-width:863px) {
